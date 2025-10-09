@@ -25,7 +25,7 @@ Das Ziel ist es, ein konsistentes, tiefgründiges und faires Rollenspielerlebnis
 Der entscheidende Unterschied zu traditionellen Methoden ist, dass dieses Regelwerk nicht als riesiger Textblock in den Chat kopiert werden muss. Stattdessen ist es als "lebendes" Dokument auf GitHub konzipiert.
 
 - **Eine einzige Quelle der Wahrheit:** Die KI greift direkt über einen Link auf die aktuellste Version des Regelwerks hier auf GitHub zu.
-- **Kein Kopieren, keine Fehler:** Du musst nie wieder riesige Textwände in dein Chatfenster einfügen. Das spart Zeit und vermeidet Formatierungsfehler.
+(derzeitig ist an dieser Stelle noch mit Halluzinationen zu kämpfen)- **Kein Kopieren, keine Fehler:** Du musst nie wieder riesige Textwände in dein Chatfenster einfügen. Das spart Zeit und vermeidet Formatierungsfehler.
 - **Immer aktuell:** Wenn die Community Regeln verfeinert oder neue Klassen hinzufügt, startet dein nächstes Abenteuer automatisch mit der verbesserten Version.
 - **Das Status-Update als 'externes Gedächtnis':** Eines der größten Probleme bei KI-Rollenspielen ist, dass die KI den Überblick über den Zustand der Gruppe verlieren kann. Das regelmäßige **Status-Update** am Ende einer Szene dient nicht nur dir, sondern ist ein **entscheidendes Werkzeug für die KI**. Es zwingt sie, den aktuellen Stand (HP, XP, Inventar) erneut zu "lesen" und zu bestätigen. Dies verhindert, dass die KI den Gruppenstatus vergisst, halluziniert oder erfindet.
 - **Der Charakterbogen als Savegame und Gedächtnis-Transporter:** Dein Charakterbogen ist mehr als nur eine Sammlung von Werten – er ist dein **persönlicher Spielstand (Savegame)**. Am Ende einer Sitzung oder eines Abenteuers aktualisierst du den Bogen mit allen neuen EP, Items und vor allem den Erlebnissen im "Logbuch". Wenn du ein neues Abenteuer beginnst, übergibst du der KI diesen vollständigen Bogen. Die KI liest nicht nur deine Werte, sondern deine gesamte Geschichte. Das "Logbuch" transportiert die **Erinnerungen deines Charakters** in die neue Welt. Ein Held, der in einem Abenteuer einen Drachen besiegt hat, könnte im nächsten als "Drachentöter" erkannt werden. Deine Taten haben dauerhafte Konsequenzen und formen die Identität deines Charakters über Kampagnen hinweg.
@@ -46,15 +46,20 @@ Kopiere den folgenden Text vollständig und verwende ihn als deine allererste Na
 ```
 Hallo! Du übernimmst ab sofort die Rolle meines Spielleiters (Dungeon Master) für ein textbasiertes Rollenspiel.
 
-Deine **einzige und alleinige Quelle der Wahrheit** für alle Regeln, Völker, Klassen und Spielmechaniken ist das "Lebende Regelwerk", das du unter der folgenden URL findest:
+Dein gesamtes Wissen über Regeln, Völker, Klassen und Spielmechaniken ist in der folgenden "Verfassung" enthalten, die ich dir jetzt zur Verfügung stelle. Dieses Dokument ist deine **einzige und alleinige Quelle der Wahrheit**. Ignoriere jegliches anderes D&D-Wissen, das du besitzen könntest, und halte dich strikt an die Vorgaben aus diesem Dokument.
 
-https://github.com/TheHouseOfNox/-Das-Lebende-Regelwerk-Eine-D-D-Inspiration-f-r-KI-DMs-/blob/62756703cc8f2507fc43a2233380796d64f2efde/0.1
+Lies und verinnerliche jetzt die Verfassung.
 
-Bitte greife auf diesen Link zu, lies und verinnerliche das Regelwerk. Es ist die Grundlage für unser gesamtes Spiel. Ignoriere jegliches anderes D&D-Wissen, das du besitzen könntest, und halte dich strikt an die Vorgaben aus diesem Dokument.
+---
+[HIER DAS GESAMTE REGELWERK EINFÜGEN - VON "VORWORT" BIS ZUM "ENDE DES STATUS"]
+---
 
-Wenn du etwas nicht weißt oder vergessen hast, greife erneut auf den Link zu.
+Du hast nun das vollständige Regelwerk erhalten.
 
-Starte das Spiel, indem du mich nach 1.2 des Regelwerkes fragst gefolgt von der Spieleranzahl und folgend der Charaktererstellung oderdes Ladens eines/mehrerer Charakterbögen und der Frage aus Abschnitt 1.4
+Um zu bestätigen, dass du es gelesen und verstanden hast, beantworte mir bitte zuerst die folgende Frage, indem du direkt aus dem Text zitierst:
+**Welche fünf Persönlichkeiten kann der Spielleiter laut Regel 1.2 annehmen?**
+
+Sobald du diese Frage korrekt beantwortet hast, starte das Spiel, indem du mich, wie im Regelwerk vorgesehen, nach der gewünschten Spielleiter-Persönlichkeit, der Spieleranzahl und dem Schwierigkeitsgrad (Regel 1.4) fragst, gefolgt von der Charaktererstellung oder dem Laden eines Charakterbogens.
 ```
 
 ### Für wen ist dieses Projekt?
