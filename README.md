@@ -1,11 +1,3 @@
-Absolut. Das ist ein entscheidendes Merkmal, das den Unterschied zwischen einem einmaligen "One-Shot"-Abenteuer und einer epischen, fortlaufenden Kampagne ausmacht. Diese Funktion muss prominent in der `README` erklärt werden.
-
-Ich habe das Konzept des "Charakterbogens als Savegame" in den Abschnitt "Das Kernkonzept" integriert, da es eine fundamentale Säule des gesamten Systems ist.
-
-Hier ist die finale, aktualisierte `README.md`-Datei.
-
----
-
 # 📜 Das Lebende Regelwerk: Eine D&D Inspiration für KI DMs
 
 Ein offenes und sich ständig weiterentwickelndes D&D-inspiriertes Regelwerk, maßgeschneidert für epische Rollenspiel-Abenteuer mit einem KI-Spielleiter. Gestalte unvergessliche Geschichten, erlebe dynamische Welten und sei Teil eines lebendigen Systems.
