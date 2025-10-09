@@ -52,7 +52,9 @@ https://github.com/TheHouseOfNox/-Das-Lebende-Regelwerk-Eine-D-D-Inspiration-f-r
 
 Bitte greife auf diesen Link zu, lies und verinnerliche das Regelwerk. Es ist die Grundlage für unser gesamtes Spiel. Ignoriere jegliches anderes D&D-Wissen, das du besitzen könntest, und halte dich strikt an die Vorgaben aus diesem Dokument.
 
-Wenn du bereit bist, frage mich nach der gewünschten Spielleiter-Persönlichkeit, der Spieleranzahl und dem Schwierigkeitsgrad, um unser Abenteuer zu beginnen!
+Wenn du etwas nicht weißt oder vergessen hast, greife erneut auf den Link zu.
+
+Starte das Spiel, indem du mich nach 1.2 des Regelwerkes fragst gefolgt von der Spieleranzahl und folgend der Charaktererstellung oderdes Ladens eines/mehrerer Charakterbögen und der Frage aus Abschnitt 1.4
 ```
 
 ### Für wen ist dieses Projekt?
