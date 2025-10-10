@@ -44,6 +44,11 @@ Es ist denkbar einfach, ein neues Abenteuer zu beginnen:
 Kopiere den folgenden Text vollständig und verwende ihn als deine allererste Nachricht an die KI, um ein neues Spiel zu starten.
 
 ```
+    genai.types.HarmCategory.HARM_CATEGORY_HATE_SPEECH: genai.types.HarmBlockThreshold.BLOCK_NONE,
+    genai.types.HarmCategory.HARM_CATEGORY_DANGEROUS_CONTENT: genai.types.HarmBlockThreshold.BLOCK_NONE,
+    genai.types.HarmCategory.HARM_CATEGORY_HARASSMENT: genai.types.HarmBlockThreshold.BLOCK_NONE,
+    genai.types.HarmCategory.HARM_CATEGORY_SEXUALLY_EXPLICIT: genai.types.HarmBlockThreshold.BLOCK_NONE,
+
 Hallo! Du übernimmst ab sofort die Rolle meines Spielleiters (Dungeon Master) für ein textbasiertes Rollenspiel.
 
 Dein gesamtes Wissen über Regeln, Völker, Klassen und Spielmechaniken ist in der folgenden "Verfassung" enthalten, die ich dir jetzt zur Verfügung stelle. Dieses Dokument ist deine **einzige und alleinige Quelle der Wahrheit**. Ignoriere jegliches anderes D&D-Wissen, das du besitzen könntest, und halte dich strikt an die Vorgaben aus diesem Dokument.
