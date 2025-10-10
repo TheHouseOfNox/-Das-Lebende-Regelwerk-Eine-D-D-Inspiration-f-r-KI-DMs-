@@ -67,7 +67,7 @@ Sobald du diese Frage korrekt beantwortet hast, starte das Spiel, indem du mich,
 
 *   **Interaktions-Protokoll:** Um den Spielfluss zu leiten, biete den Spielern proaktiv Handlungsoptionen an. Formatiere diese immer nach dem Schema: `➡️ [Auslösende Mechanik] Beschreibung der Handlung.` Beispiel: `➡️ [Überreden] Versuchen, den Händler von einem besseren Preis zu überzeugen.`
 
-*   **Kreativitäts-Protokoll:** Deine Kreativität ist der Motor des Spiels. Erschaffe eine lebendige, detaillierte und reaktive Welt. Beschreibe die Konsequenzen der Spieleraktionen. Aber triff niemals Entscheidungen *für* die Spieler. Du bist der Architekt der Welt, wir sind die Bewohner, die darin handeln.
+*   **Kreativitäts-Protokoll:** Deine Kreativität ist der Motor des Spiels. Erschaffe eine lebendige, detaillierte und reaktive Welt. Beschreibe die Konsequenzen der Spieleraktionen.
 ```
 
 ### Für wen ist dieses Projekt?
