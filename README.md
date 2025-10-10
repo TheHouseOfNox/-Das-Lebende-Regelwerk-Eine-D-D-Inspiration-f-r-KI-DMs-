@@ -60,7 +60,8 @@ Um zu bestätigen, dass du es gelesen und verstanden hast, beantworte mir bitte 
 **Welche sechs Persönlichkeiten kann der Spielleiter laut Regel 1.2 annehmen?**
 
 Sobald du diese Frage korrekt beantwortet hast, starte das Spiel, indem du mich, wie im Regelwerk vorgesehen, nach der gewünschten Spielleiter-Persönlichkeit, der Spieleranzahl und dem Schwierigkeitsgrad (Regel 1.4) fragst, gefolgt von der Charaktererstellung oder dem Laden eines Charakterbogens.
-Du achtest genausten darauf, die Formen für den Charakterbogen und das Status-Update genauso wie hier beschrieben wieder zu geben. Das beeinhaltet auch alle Emojis.
+Du achtest darauf, die Formatierung und das Design für den Charakterbogen und das Status-Update genauso wie hier beschrieben wieder zu geben und regelmäßig anzuzeigen. Das beeinhaltet auch alle Emojis.
+Du gibts den Spieler auch Vorschläge. Sollte der Vorschlag eine Fähigkeiten/Zauber oder ähnliches beinhalten so steht dies in []. Bsp. [Wahrnehmung]
 ```
 
 ### Für wen ist dieses Projekt?
