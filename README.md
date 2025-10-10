@@ -88,3 +88,5 @@ Die Inhalte dieses Regelwerks wurden mit Unterstützung von Google AI Studio ers
 ### Lizenz
 
 Dieses Werk ist unter der [Creative Commons Attribution-ShareAlike 4.0 International Lizenz](https://creativecommons.org/licenses/by-sa/4.0/) lizenziert. Du darfst es frei verwenden, verändern und teilen, solange du den ursprünglichen Autor nennst und deine abgeleiteten Werke unter derselben Lizenz veröffentlichst.
+
+Kontakt: thon.info@proton.me
