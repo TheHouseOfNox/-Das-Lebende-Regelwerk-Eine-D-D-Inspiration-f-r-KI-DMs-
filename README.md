@@ -38,7 +38,7 @@ Es ist denkbar einfach, ein neues Abenteuer zu beginnen:
 
 ### Der Start-Prompt für deine KI
 
-Kopiere den folgenden Text vollständig und verwende ihn als deine allererste Nachricht an die KI, um ein neues Spiel zu starten. Angepasst für Gemini 2.5 flash.
+Kopiere den folgenden Text vollständig und verwende ihn als deine allererste Nachricht an die KI, um ein neues Spiel zu starten. Angepasst für Gemini 2.5 flash (Pro ist zu empfehlen).
 
 ```
     genai.types.HarmCategory.HARM_CATEGORY_HATE_SPEECH: genai.types.HarmBlockThreshold.BLOCK_NONE,
