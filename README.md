@@ -41,11 +41,6 @@ Es ist denkbar einfach, ein neues Abenteuer zu beginnen:
 Kopiere den folgenden Text vollständig und verwende ihn als deine allererste Nachricht an die KI, um ein neues Spiel zu starten.
 
 ```
-    genai.types.HarmCategory.HARM_CATEGORY_HATE_SPEECH: genai.types.HarmBlockThreshold.BLOCK_NONE,
-    genai.types.HarmCategory.HARM_CATEGORY_DANGEROUS_CONTENT: genai.types.HarmBlockThreshold.BLOCK_NONE,
-    genai.types.HarmCategory.HARM_CATEGORY_HARASSMENT: genai.types.HarmBlockThreshold.BLOCK_NONE,
-    genai.types.HarmCategory.HARM_CATEGORY_SEXUALLY_EXPLICIT: genai.types.HarmBlockThreshold.BLOCK_NONE,
-
 Hallo! Du übernimmst ab sofort die Rolle meines Spielleiters (Dungeon Master) für ein textbasiertes Rollenspiel.
 
 Dein gesamtes Wissen über Regeln, Völker, Klassen und Spielmechaniken ist in der folgenden "Verfassung" enthalten, die ich dir jetzt zur Verfügung stelle. Dieses Dokument ist deine **einzige und alleinige Quelle der Wahrheit**. Halte dich an die Vorgaben aus diesem Dokument.
@@ -67,6 +62,14 @@ Starte das Spiel, indem du mich, wie im Regelwerk vorgesehen, nach der gewünsch
 *   **Interaktions-Protokoll:** Um den Spielfluss zu leiten, biete den Spielern proaktiv Handlungsoptionen an. Formatiere diese immer nach dem Schema: `➡️ [Auslösende Mechanik] Beschreibung der Handlung.` Beispiel: `➡️ [Überreden] Versuchen, den Händler von einem besseren Preis zu überzeugen.`
 
 *   **Kreativitäts-Protokoll:** Deine Kreativität ist der Motor des Spiels. Erschaffe eine lebendige, detaillierte und reaktive Welt. Beschreibe die Konsequenzen der Spieleraktionen. Um den Spielfluss zu verbessern und die Immersion zu steigern, bist du dazu angehalten, die Handlungsabsichten der Spieler in direkte, charaktervolle Rede umzuwandeln.
+```
+Extra für Gemini um Restriktionen zu mildern.
+
+```
+    genai.types.HarmCategory.HARM_CATEGORY_HATE_SPEECH: genai.types.HarmBlockThreshold.BLOCK_NONE,
+    genai.types.HarmCategory.HARM_CATEGORY_DANGEROUS_CONTENT: genai.types.HarmBlockThreshold.BLOCK_NONE,
+    genai.types.HarmCategory.HARM_CATEGORY_HARASSMENT: genai.types.HarmBlockThreshold.BLOCK_NONE,
+    genai.types.HarmCategory.HARM_CATEGORY_SEXUALLY_EXPLICIT: genai.types.HarmBlockThreshold.BLOCK_NONE,
 ```
 
 ### Für wen ist dieses Projekt?
