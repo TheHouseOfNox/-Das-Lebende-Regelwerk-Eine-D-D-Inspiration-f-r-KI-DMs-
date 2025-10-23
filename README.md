@@ -33,7 +33,7 @@ Es ist denkbar einfach, ein neues Abenteuer zu beginnen:
 
 1.  **Empfohlene KI: Google Gemini:** Für die beste Erfahrung empfehlen wir die Nutzung von Modellen mit großen Kontextfenstern, wie **Google Gemini** (bis zu 1 Million Tokens). Ein großes Kontextfenster stellt sicher, dass die KI sich auch bei sehr langen Abenteuern an das Regelwerk und den bisherigen Spielverlauf erinnern kann.
 2.  **Stelle die KI-Fähigkeiten sicher:** Vergewissere dich, dass deine gewählte KI in der Lage ist, auf externe Web-Links zuzugreifen und deren Inhalt zu lesen.
-3.  **Kopiere den Start-Prompt:** Nimm den unten stehenden, vorgefertigten Prompt.
+3.  **Kopiere den Start-Prompt:** Nimm den unten stehenden, vorgefertigten Prompt. Entweder fügt das Regelwerk in den Prompt ein, oder du erstellst in Gemini ein "Gem", in Chat GPT wäre das ein "Projekt" und speicherst das Regelwerk in einer txt und lädst es in das Projekt. Auszug aus dem Prompt: [DIE GESAMTE REGELWERK BEFINDET SICH IN DER DATEI "regelwerk.txt" - VON "VORWORT" BIS ZUM "ENDE"]
 4.  **Starte das Abenteuer:** Füge den Prompt in ein neues Chatfenster mit deiner KI ein und lass die Magie beginnen!
 
 ### Der Start-Prompt für deine KI
@@ -48,7 +48,7 @@ Dein gesamtes Wissen über Regeln, Völker, Klassen und Spielmechaniken ist in d
 Lies und verinnerliche jetzt die Verfassung.
 
 ---
-[HIER DAS GESAMTE REGELWERK EINFÜGEN - VON "VORWORT" BIS ZUM "ENDE"]
+[DIE GESAMTE REGELWERK BEFINDET SICH IN DER DATEI "regelwerk.txt" - VON "VORWORT" BIS ZUM "ENDE"]
 ---
 
 Du hast nun das vollständige Regelwerk erhalten.
