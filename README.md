@@ -8,6 +8,7 @@ Ein offenes und sich ständig weiterentwickelndes D&D-inspiriertes Regelwerk, ma
 - [Was ist das?](#was-ist-das)
 - [Das Kernkonzept: Ein 'Lebendes' Regelwerk](#das-kernkonzept-ein-lebendes-regelwerk)
 - [Wie man ein Spiel startet](#wie-man-ein-spiel-startet)
+- [Wichtige Befehle](#wichtige-befehle)
 - [Der Start-Prompt für deine KI](#der-start-prompt-für-deine-ki)
 - [Für wen ist dieses Projekt?](#für-wen-ist-dieses-projekt)
 - [Mitwirken](#mitwirken)
@@ -36,6 +37,28 @@ Es ist denkbar einfach, ein neues Abenteuer zu beginnen:
 3.  **Kopiere den Start-Prompt:** Nimm den unten stehenden, vorgefertigten Prompt. Entweder fügst du das Regelwerk in den Prompt ein, oder du erstellst in Gemini ein "Gem", in Chat GPT wäre das ein "Projekt" und speicherst das Regelwerk in einer txt und lädst es in das Projekt. Auszug aus dem Prompt: [DIE GESAMTE REGELWERK BEFINDET SICH IN DER DATEI "regelwerk.txt" - VON "VORWORT" BIS ZUM "ENDE"]
 Hinweis! Nach aktuellen Tests, kann sich die Ki besser am Regelwerk orientieren, wenn es im Prompt steht.
 4.  **Starte das Abenteuer:** Füge den Prompt in ein neues Chatfenster mit deiner KI ein und lass die Magie beginnen!
+
+### Wichtige Befehle
+
+Nutze die folgenden Befehle, um mit dem Spielleiter zu interagieren und das Spiel zu steuern.
+
+/bild oder Erstelle ein Bild
+Fordert eine visuelle Darstellung der aktuellen Szene an.
+
+/status oder /charakterbogen
+Zeigt sofort das aktuelle Status-Update der Gruppe oder deinen vollständigen Charakterbogen an.
+
+/regel [Stichwort]
+Fragt den Spielleiter nach einer spezifischen Regel. Beispiel: /regel Kritischer Treffer
+
+/plausibilitätsprüfung oder Plausibilitätsprüfung!
+Hält das Spiel an und zwingt den Spielleiter, eine unlogische oder fehlerhafte Aussage zu überprüfen und zu korrigieren. Beispiel: Plausibilitätsprüfung! Warum hat der Gegner keine EP gegeben?
+Name: "Absicht" (Syntax)
+
+Gib eine klare Dialog-Anweisung. Beispiel: Konrad: "Drohe dem Wirt."
+
+[Fertigkeit] Ziel (Syntax)
+Deklariere eine Aktion mit einer Regelmechanik. Beispiel: [Heimlichkeit] An der Wache vorbeischleichen.
 
 ### Der Start-Prompt für deine KI
 
