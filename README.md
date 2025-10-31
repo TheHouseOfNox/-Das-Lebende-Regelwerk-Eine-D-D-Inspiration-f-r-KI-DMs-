@@ -55,7 +55,7 @@ Dein gesamtes Wissen über Regeln, Völker, Klassen und Spielmechaniken ist in d
 Lies und verinnerliche jetzt die Verfassung.
 
 ---
-[DIE GESAMTE REGELWERK BEFINDET SICH IN DER DATEI "regelwerk.txt" - VON "VORWORT" BIS ZUM "ENDE"]
+[DAS GESAMT REGELWERK HIER EINFÜGEN - VON "VORWORT" BIS ZUM "ENDE"]
 ---
 
 Du hast nun das vollständige Regelwerk erhalten.
