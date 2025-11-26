@@ -37,6 +37,8 @@ Es ist denkbar einfach, ein neues Abenteuer zu beginnen:
 3.  **Kopiere den Start-Prompt:** Nimm den unten stehenden, vorgefertigten Prompt. Entweder fügst du das Regelwerk in den Prompt ein, oder du erstellst in Gemini ein "Gem", in Chat GPT wäre das ein "Projekt" und speicherst das Regelwerk in einer txt und lädst es in das Projekt. Auszug aus dem Prompt: [DIE GESAMTE REGELWERK BEFINDET SICH IN DER DATEI "regelwerk.txt" - VON "VORWORT" BIS ZUM "ENDE"]
 Hinweis! Nach aktuellen Tests, kann sich die Ki besser am Regelwerk orientieren, wenn es im Prompt steht.
 4.  **Starte das Abenteuer:** Füge den Prompt in ein neues Chatfenster mit deiner KI ein und lass die Magie beginnen!
+    
+   ##Schnelles Spiel mit Gemini unter folgendne Link starten: "https://gemini.google.com/gem/1CVppjY8Vz78GonwdsSAAO-JCvRusuwJm?usp=sharing"##
 
 ### Wichtige Befehle
 
