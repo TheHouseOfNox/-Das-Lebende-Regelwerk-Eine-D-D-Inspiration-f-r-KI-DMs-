@@ -38,7 +38,7 @@ Es ist denkbar einfach, ein neues Abenteuer zu beginnen:
 Hinweis! Nach aktuellen Tests, kann sich die Ki besser am Regelwerk orientieren, wenn es im Prompt steht.
 4.  **Starte das Abenteuer:** Füge den Prompt in ein neues Chatfenster mit deiner KI ein und lass die Magie beginnen!
     
-   ## Schnelles Spiel mit Gemini unter folgendne Link starten: "https://gemini.google.com/gem/19jDP8TZF_cFjSM9rpyv8f_Z4-WT8Mjrx?usp=sharing" ##
+   ## Schnelles Spiel mit Gemini unter folgenden Link starten: "https://gemini.google.com/gem/19jDP8TZF_cFjSM9rpyv8f_Z4-WT8Mjrx?usp=sharing" ##
 
 ### Wichtige Befehle
 
