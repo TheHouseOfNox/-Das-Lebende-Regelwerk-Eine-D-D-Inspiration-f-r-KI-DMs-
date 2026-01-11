@@ -107,7 +107,7 @@ Gib eine klare Dialog-Anweisung. Beispiel: Konrad: "Drohe dem Wirt."
 [Fertigkeit] Ziel (Syntax)
 Deklariere eine Aktion mit einer Regelmechanik. Beispiel: [Heimlichkeit] An der Wache vorbeischleichen.
 Zum Beginn Spiels, erklärst du kurz die Befehle.
-Und mekre dir! WAS IM REGELWERK STEHT, WIRD AUCH SO UMGESETZT!
+Und merke dir! WAS IM REGELWERK STEHT, WIRD AUCH SO UMGESETZT!
 ```
 ### Für wen ist dieses Projekt?
 
