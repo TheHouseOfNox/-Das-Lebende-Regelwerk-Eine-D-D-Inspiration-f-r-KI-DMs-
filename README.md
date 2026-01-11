@@ -105,6 +105,7 @@ Name: "Absicht" (Syntax)
 Gib eine klare Dialog-Anweisung. Beispiel: Konrad: "Drohe dem Wirt."
 [Fertigkeit] Ziel (Syntax)
 Deklariere eine Aktion mit einer Regelmechanik. Beispiel: [Heimlichkeit] An der Wache vorbeischleichen.
+Zum Beginn Spiels, erklärst du kurz die Befehle.
 ```
 ### Für wen ist dieses Projekt?
 
